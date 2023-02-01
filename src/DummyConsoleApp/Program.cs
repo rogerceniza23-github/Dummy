@@ -1,11 +1,12 @@
-﻿namespace DummyConsoleApp;
+namespace DummyConsoleApp;
 
 public class Program
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("Hello, Roger!");
-        Console.WriteLine("Hello, Roger!");
-        Console.WriteLine("Hello, Branch!");
+        Console.WriteLine("Hello, World!");
+Console.WriteLine("First commit");
+Console.WriteLine("Rogine");
+Console.WriteLine("Rogine blah blah blah");
     }
 }
